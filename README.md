@@ -48,7 +48,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wiraliwirya&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wiraliwirya&show_icons=true&theme=onedark&hide=stars,issues&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wiraliwirya&show_icons=true&theme=onedark&hide=stars,issues&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wiraliwirya&theme=javascript-dark&locale=id&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
   <br/>
@@ -73,10 +73,7 @@
 <details>
   <summary>🤩 Klik untuk Mengintip Sisi Lain Saya!</summary>
   <ul>
-    <li>🍕 <b>Pecinta Pizza</b>: Pizza adalah bahan bakar saya saat coding maraton!</li>
     <li>🐞 <b>Pemburu Bug</b>: Pernah menghabiskan 2 jam gara-gara titik koma yang bandel!</li>
-    <li>🚴‍♂️ <b>Petualang Bersepeda</b>: Bersepeda adalah caraku refresh otak dari kode.</li>
-    <li>🎮 <b>Retro Gamer</b>: Suka main game 8-bit untuk nostalgia di sela-sela coding.</li>
     <li>☕ <b>Kopi Addict</b>: Tanpa kopi, kodeku mungkin cuma setengah hidup!</li>
   </ul>
 </details>
