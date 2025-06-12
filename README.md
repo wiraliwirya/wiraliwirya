@@ -1,6 +1,6 @@
 <!-- Header dengan animasi teks yang super keren -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=3000&pause=600&color=FF2D55¢er=true&vCenter=true&width=700&lines=Hai+Semua!+Saya+@Liwirya!;Selamat+Datang+di+Dunia+Kode+Saya!;Mari+Ciptakan+Sesuatu+yang+Epik!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wira+Liwirya+-+404">
 </p>
 
 <!-- Intro singkat yang penuh energi -->
