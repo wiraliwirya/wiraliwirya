@@ -4,15 +4,14 @@
 </p>
 
 <!-- Intro singkat yang penuh energi -->
-<h1 align="center">🔥 Halo, Saya Liwirya! 🔥</h1>
+<h1 align="center">🔥 Halo, Saya Wira! 🔥</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/26gsjczbKZXrESr7W/giphy.gif" width="280" />
 </p>
 <p align="center">
   👨‍💻 <b>Web Development</b> yang suka menciptakan aplikasi web yang berguna! <br>
-  🌟 <b>こんにちは (Konnichiwa)</b>! Saya suka mengubah sebuah ide menjadi kode pemograman. <br>
-  🚀 <i>"Kode adalah seni, dan saya merupakan senimannya!"</i> <br>
-  📍 Berbasis di Indonesia, siap kolaborasi dengan coder dari seluruh galaksi!
+  🌟 <b>こんにちは (Konnichiwa)</b>! Saya suka mengubah sebuah ide menjadi sebuah kode pemograman. <br>
+  📍 berlokasi di Indonesia
 </p>
 
 ---
