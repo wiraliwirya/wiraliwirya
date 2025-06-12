@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="center">🛠️ Gudang Senjata Teknologi Saya</h2>
+<h2 align="center">🛠️ My Favorite Languages And FrameWork</h2>
 <p align="center">
   <!-- Bahasa Pemrograman -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
