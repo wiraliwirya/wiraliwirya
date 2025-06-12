@@ -9,9 +9,9 @@
   <img src="https://media.giphy.com/media/26gsjczbKZXrESr7W/giphy.gif" width="280" />
 </p>
 <p align="center">
-  👨‍💻 <b>Web Development Enthusiast</b> yang suka menciptakan aplikasi web canggih dan estetis! <br>
-  🌟 <b>こんにちは (Konnichiwa)</b>! Saya suka mengubah ide jadi kode yang hidup dan berdampak. <br>
-  🚀 <i>"Kode adalah seni, dan saya adalah senimannya!"</i> <br>
+  👨‍💻 <b>Web Development</b> yang suka menciptakan aplikasi web yang berguna! <br>
+  🌟 <b>こんにちは (Konnichiwa)</b>! Saya suka mengubah sebuah ide menjadi kode pemograman. <br>
+  🚀 <i>"Kode adalah seni, dan saya merupakan senimannya!"</i> <br>
   📍 Berbasis di Indonesia, siap kolaborasi dengan coder dari seluruh galaksi!
 </p>
 
@@ -48,11 +48,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Liwirya&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Liwirya&show_icons=true&theme=onedark&hide=stars,issues&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wiraliwirya&show_icons=true&theme=onedark&hide=stars,issues&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Liwirya&theme=onedark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wiraliwirya&theme=javascript-dark&locale=id&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liwirya&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiraliwirya&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
