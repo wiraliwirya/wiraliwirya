@@ -45,7 +45,7 @@
 
 <h2 align="center">🏆 Prestasi GitHub Saya</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Liwirya&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wiraliwirya&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wiraliwirya&show_icons=true&theme=onedark&hide=stars,issues&count_private=true&hide_border=true" alt="GitHub Stats" />
