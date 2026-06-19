@@ -18,7 +18,6 @@
 [![](https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/MongoDB-2d2d2d?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Firebase-2d2d2d?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![](https://img.shields.io/badge/Windows-2d2d2d?style=flat-square&logo=windows&logoColor=white)](https://microsoft.com/windows)
 [![](https://img.shields.io/badge/Ubuntu-2d2d2d?style=flat-square&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 
 </div>
@@ -47,7 +46,7 @@
     runtime: "node.js",
     database: ["mongodb", "firebase"],
     tools: ["git", "terminal"],
-    software: ["windows", "ubuntu (server)"]
+    software: ["ubuntu"]
   };
 
   console.log("Error: System overloaded with pure caffeine.");
