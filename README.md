@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/nkehbj.jpg" width="25%" align="right" style="border-radius: 15px; margin-left: 20px;" />
+<img src="https://files.catbox.moe/nsdr5m.jpg" width="25%" align="right" style="border-radius: 15px; margin-left: 20px;" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi!+I'm+Wira+Liwirya;Network+%26+Back-End+Dev;Coffee+Lover" width="70%" />
 
 <br><br>
